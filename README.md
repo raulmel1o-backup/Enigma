@@ -67,5 +67,5 @@ If it is blank the output will be printed in the terminal.
 **If the file exists it will be overwritten, if the file does not exists it will be created.**
 
 ```
-java Enigma.java -in C:\Users\user\file.txt
+java Enigma.java -out C:\Users\user\file.txt
 ```
