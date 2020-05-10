@@ -1,6 +1,6 @@
-<p align="center">
-  
-</p>
+# Enigma
+
+![Enigma Demo](enigma.gif)
 <p align="center">
   A simple encryption machine built with Java
  </p>
